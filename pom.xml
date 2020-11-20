@@ -6,6 +6,8 @@
 	<modules>
 		<module>eureka-server</module>
 		<module>orders-service</module>
+		<module>products-service</module>
+		<module>custom-dto</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
